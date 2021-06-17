@@ -3,3 +3,4 @@
 3- zoom
 4- notification
 5- menu button
+6- carousel
